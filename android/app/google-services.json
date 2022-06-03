@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "529818770501",
+    "project_id": "btrade-4a9c5",
+    "storage_bucket": "btrade-4a9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529818770501:android:cddeb5d2c3727e936f972c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529818770501-7fot3krogv8fi0rpjms5k7n7tpvmv7uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARghJzgEh6RpLFD9z-f8u4yuL13R_NCsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529818770501-7fot3krogv8fi0rpjms5k7n7tpvmv7uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529818770501:android:c582cd41a8c3f5026f972c",
+        "android_client_info": {
+          "package_name": "com.example.btradeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529818770501-7fot3krogv8fi0rpjms5k7n7tpvmv7uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARghJzgEh6RpLFD9z-f8u4yuL13R_NCsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529818770501-7fot3krogv8fi0rpjms5k7n7tpvmv7uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
